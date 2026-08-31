@@ -2,6 +2,10 @@
 
 A framework-free, premium HTML template for auto repair shops, garages, and mechanic businesses. Built with vanilla HTML, CSS, and JavaScript. No dependencies, no build step.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Pages
 
 | Page | Description |
